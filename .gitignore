@@ -7,3 +7,14 @@ node_modules/
 .vscode/
 .DS_Store
 backend/secrets/
+
+# Python
+venv/
+__pycache__/
+
+# Secrets
+backend/secrets/
+.env
+
+# Databases
+*.db
